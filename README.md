@@ -49,7 +49,18 @@
      - 📧 Postfix and Sendmail
      - 🚫 Spam Filtering
 
-3. 🛠️ **Automation and Configuration Management**
+3. 💻 **Programming Languages**
+   - 🐍 Python
+   - 🔧 Shell Scripting
+   - ⚙️ Go (Golang)
+
+4. 🗂️ **Version Control with Git**
+   - ✅ Git Basics: Clone, Commit, Push
+   - 🗂️ Branching and Merging
+   - 🔄 Git Workflows (Gitflow, Trunk-Based)
+   - 🔧 Best Practices: Writing Clear Commit Messages, Pull Requests
+
+5. 🛠️ **Automation and Configuration Management**
    - 📜 **Infrastructure as Code (IaC)**
      - 📜 Terraform
      - 📦 AWS CloudFormation
@@ -61,7 +72,7 @@
      - 🚀 GitLab CI/CD
      - 🛠️ ArgoCD
 
-4. ☁️ **Cloud Computing**
+6. ☁️ **Cloud Computing**
    - ☁️ **Public Clouds**
      - ☁️ AWS
      - ☁️ Azure
@@ -79,7 +90,7 @@
      - 📊 Grafana
      - ☸️ Kubernetes Horizontal Pod Autoscaler
 
-5. 🔒 **Security and Observability**
+7. 🔒 **Security and Observability**
    - 🛡️ **Security Best Practices**
      - 🔐 TLS/SSL Certificates
      - 🔑 Secure Secrets Management (Vault)
@@ -90,7 +101,7 @@
    - 🔒 Nessus
    - ✅ SOC 2 / ISO 27001 Compliance
 
-6. 📚 **Soft Skills and Career Development**
+8. 📚 **Soft Skills and Career Development**
    - 💬 Effective Communication
    - 🧠 Problem-Solving Techniques
    - 🤝 Collaboration with Devs
